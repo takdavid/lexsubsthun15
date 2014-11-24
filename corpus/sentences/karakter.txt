@@ -1,0 +1,10 @@
+A hitelesség érdekében a jelölt személyiségéhez, 	karakteréhez 	mérten kell meghatározni azokat az erõsségeket, amelyeket a kampányba beépítve sikeresen tud kamatoztatni ( például szakmai tapasztalat, pozitív tulajdonság, határozott fellépés stb. ).
+A különbözõ korok nem csupán az emberi alkotásokban hagynak nyomot maguk után, hanem az emberek külsõ 	karakterét 	is erõsen befolyásolják.
+Már csak azért sem, mert nincs markáns jellemzés a dikció révén: pusztán ez alapján semmi különbség a két 	karakter 	között.
+Más 	karakter 	jó katonának és más alkalmas kiskereskedõnek.
+Az elmondottakból az derül ki, hogy gazdasági fejlõdés egyelõre csak ott várható, ahol a fenti civilizációs 	karakter 	valamelyike a jellemzõ.
+Azt is láttuk, hogy az elmúlt ötven év újabb kulturális 	karaktert 	értékelt fel: a puritánoktól délre élo individualistákét.
+Az adott string összes 	karakterét 	kisbetûssé konvertálja.
+Ha a file neve egy " # " 	karakterre 	végzõdik, akkor több levél esetén a program automatikusan növekvõ sorszámmal látja el az állományokat ( max. 99-ig ).
+A megadott karakterlánc Hely 	karakterétõl 	kezdve kimásol Hossz darab karaktert.
+A naplóállomány teljes neve nem haladhatja meg a 40 	karaktert 	.
