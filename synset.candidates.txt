@@ -1,0 +1,402 @@
+állás   ENG20-00554938-n : kenyérkereset, foglalkozás,
+
+állás   ENG20-00556725-n : alkalmazás, hivatal, poszt, pozíció, tisztség,
+
+állás   ENG20-04134131-n : boksz, fülke,
+
+állás   ENG20-04681033-n : mód,
+
+állás   ENG20-04805678-n : tartás, testhelyzet,
+
+állás   ENG20-05479837-n : jelzés, adat,
+
+állás   ENG20-08098247-n : poszt, őrhely, őrállomás,
+
+állás   ENG20-08125092-n : hely,
+
+állás   ENG20-12829162-n : eredmény, ponteredmény, pontszám, pontállás,
+
+állás   ENG20-13173740-n : alkalmaztatás, alkalmazás, foglalkoztatás, szolgálat,
+
+állás   ENG20-13213785-n : megrekedés, pangás, stagnálás,
+
+
+
+----------------------------------
+
+
+hozzájárulás    ENG20-01027745-n : adomány, adás,
+
+hozzájárulás    ENG20-01074981-n : engedélyezés, jóváhagyás,
+
+hozzájárulás    ENG20-04882977-n : felhatalmazás, jóváhagyás,
+
+hozzájárulás    ENG20-06275099-n : helyeslés, mondanivaló,
+
+hozzájárulás    ENG20-06733849-n : helyeslés, jóváhagyás,
+
+hozzájárulás    ENG20-12514677-n : summa, összeg,
+
+
+
+----------------------------------
+
+villa   ENG20-03260406-n : evőeszköz,
+
+
+
+----------------------------------
+
+hó      ENG20-10766265-n : havazás, hóesés,
+
+hó      ENG20-14190416-n : réteg,
+
+
+
+----------------------------------
+
+fül     ENG20-03357984-n : fogantyú, fogó, nyél,
+
+fül     ENG20-05014060-n : érzék, érzékszerv,
+
+
+
+----------------------------------
+
+díj     ENG20-04314681-n : trófea, jutalom,
+
+díj     ENG20-12512969-n : adomány,
+
+díj     ENG20-12550626-n : ár, költség,
+
+díj     ENG20-12563429-n : illeték,
+
+
+
+----------------------------------
+
+helyzet ENG20-04798369-n : elhelyezkedés, reláció,
+
+helyzet ENG20-08096992-n : elhelyezkedés, fekvés,
+
+helyzet ENG20-13137195-n : állapot,
+
+
+
+----------------------------------
+
+paradicsom      ENG20-07262056-n : zöldség, zöldségféle,
+
+
+
+----------------------------------
+
+jelentés        ENG20-06194350-n : értelem,
+
+jelentés        ENG20-06774612-n : beszámolás, tudósítás,
+
+jelentés        ENG20-06775158-n : beszámoló, dokumentum,
+
+
+
+----------------------------------
+
+utalás  ENG20-05579029-n : referencia, értelem,
+
+utalás  ENG20-06347853-n : hivatkozás, vonatkozás,
+
+utalás  ENG20-06350681-n : célzás, emlegetés,
+
+utalás  ENG20-06384851-n : célzás, indikáció,
+
+
+
+----------------------------------
+
+tétel   ENG20-03455609-n : egység, egész,
+
+tétel   ENG20-06081786-n : darab, rész,
+
+tétel   ENG20-06102236-n : bejegyzés,
+
+tétel   ENG20-06336727-n : konstituens, összetevő,
+
+tétel   ENG20-06614797-n : kompozíció, zenedarab,
+
+
+
+----------------------------------
+
+gyümölcs        ENG20-06846795-n : kihatás, következmény,
+
+gyümölcs        ENG20-12336058-n : gyümölcstermés, gyümölcsözhozam,
+
+gyümölcs        ENG20-12382403-n : termés, szaporítószerv,
+
+
+
+----------------------------------
+
+hivatal ENG20-00556725-n : alkalmazás, poszt, pozíció, tisztség, állás,
+
+hivatal ENG20-00678112-n : funkció, rész, szerep,
+
+hivatal ENG20-03697215-n : iroda, székhely,
+
+hivatal ENG20-07586975-n : egység,
+
+hivatal ENG20-13153429-n : állapot,
+
+
+
+----------------------------------
+
+karakter        ENG20-04440892-n : jellem, attribútum,
+
+karakter        ENG20-05510864-n : jellegzetesség, sajátság,
+
+karakter        ENG20-06400094-n : graféma, írásjegy,
+
+
+
+----------------------------------
+
+alak    ENG20-00023103-n : forma, attribútum,
+
+alak    ENG20-03214286-n : figura, modell,
+
+alak    ENG20-04484710-n : forma, minőség,
+
+alak    ENG20-04789293-n : alakzat,
+
+alak    ENG20-09276463-n : fickó, ipse, manus, manusz, muki, pacák, pali, pasas, pofa, tag,
+
+alak    ENG20-09674917-n : név, személyiség,
+
+
+
+----------------------------------
+
+csőd    ENG20-13655225-n : kudarc, sors,
+
+csőd    ENG20-13655745-n : fizetésképtelenség,
+
+
+
+----------------------------------
+
+gyakorlat       ENG20-00392523-n : elfoglaltság, időtöltés,
+
+gyakorlat       ENG20-05340531-n : tudás,
+
+
+
+----------------------------------
+
+lap     ENG20-03678422-n : hírlap, újság,
+
+lap     ENG20-04028576-n : artefaktum,
+
+lap     ENG20-05874639-n : papírlap,
+
+lap     ENG20-05885165-n : újság, sajtó,
+
+lap     ENG20-08838501-n : lemez, térség,
+
+
+
+----------------------------------
+
+súly    ENG20-04393417-n : artefaktum,
+
+súly    ENG20-04879321-n : fontosság,
+
+súly    ENG20-05495473-n : teher, bosszúság,
+
+
+
+----------------------------------
+
+
+
+----------------------------------
+
+lehetőség       ENG20-00555958-n : felszerelés, szolgáltatás,
+
+lehetőség       ENG20-05456920-n : alkalom, mód,
+
+lehetőség       ENG20-05457166-n : eshetőség, kilátás,
+
+lehetőség       ENG20-05604566-n : kilátás, várakozás,
+
+lehetőség       ENG20-06843006-n : eshetőség, történés,
+
+lehetőség       ENG20-13659016-n : eshetőség, lét,
+
+lehetőség       ENG20-13660635-n : alkalom, esély,
+
+
+
+----------------------------------
+
+szellem ENG20-08943138-n : lélek, szellemlény,
+
+szellem ENG20-09943258-n : lélek, életelv,
+
+szellem ENG20-10009861-n : elme, gondolkodó,
+
+szellem ENG20-13698379-n : atmoszféra, hangulat, levegő, íz,
+
+
+
+----------------------------------
+
+hüvely  ENG20-05204958-n : vagina, csatorna,
+
+hüvely  ENG20-07237119-n : zöldség, zöldségféle,
+
+
+
+----------------------------------
+
+belépő  ENG20-04481243-n : ajánlás, ajánlólevél,
+
+belépő  ENG20-09416282-n : utazó,
+
+
+
+
+----------------------------------
+
+oldal   ENG20-04528387-n : aspektus, jellegzetesség,
+
+oldal   ENG20-05233619-n : régió, táj,
+
+oldal   ENG20-05513541-n : aspektus, vonatkozás,
+
+oldal   ENG20-05875089-n : lap,
+
+oldal   ENG20-07897707-n : tábor, egység,
+
+oldal   ENG20-07992873-n : felszín, felület,
+
+oldal   ENG20-08120765-n : vonal,
+
+oldal   ENG20-13109893-n : oldalszárny, szárny,
+
+
+
+----------------------------------
+
+természet       ENG20-04443352-n : alaptermészet, attribútum,
+
+természet       ENG20-04523906-n : minőség,
+
+természet       ENG20-05502811-n : típus,
+
+természet       ENG20-08780130-n : földkerekség, kozmosz,
+
+természet       ENG20-08903111-n : ok, okozó,
+
+
+
+----------------------------------
+
+tárgy   ENG20-04253102-n : dolog, artefaktum,
+
+tárgy   ENG20-05475066-n : tudattartalom,
+
+tárgy   ENG20-05478326-n : téma, ügy,
+
+tárgy   ENG20-05922459-n : konstituens, összetevő,
+
+tárgy   ENG20-06192044-n : téma, mondanivaló,
+
+
+
+----------------------------------
+
+váltó   ENG20-04203147-n : vezérlő, vezérlőegység,
+
+váltó   ENG20-07007921-n : staféta, váltóverseny,
+
+
+
+----------------------------------
+
+pofa    ENG20-04997286-n : bagóleső, bejárat, csőr, kereplő,
+
+pofa    ENG20-05281344-n : fizimiska, kép, pofázmány, ábrázat,
+
+pofa    ENG20-09276463-n : alak, fickó, ipse, manus, manusz, muki, pacák, pali, pasas, tag,
+
+
+
+----------------------------------
+
+kilátás ENG20-05457166-n : eshetőség, lehetőség,
+
+kilátás ENG20-05588067-n : kép, látkép, látvány, panoráma,
+
+kilátás ENG20-07050687-n : várakozás,
+
+
+----------------------------------
+
+tanács  ENG20-06240673-n : irányítás, tipp, vezérlet, útmutatás,
+
+tanács  ENG20-06261127-n : ajánlat,
+
+tanács  ENG20-07809840-n : hivatal,
+
+
+
+----------------------------------
+
+szervezet       ENG20-00003226-n : organizmus,
+
+szervezet       ENG20-07523126-n : organizáció,
+
+
+
+----------------------------------
+
+kép     ENG20-03730240-n : festmény,
+
+kép     ENG20-03782824-n : ábrázolat, ábrázolás,
+
+kép     ENG20-03852232-n : lenyomat,
+
+kép     ENG20-05281344-n : fizimiska, pofa, pofázmány, ábrázat,
+
+kép     ENG20-05588067-n : kilátás, látkép, látvány, panoráma,
+
+kép     ENG20-06571848-n : illusztráció,
+
+kép     ENG20-13146165-n : helyzet,
+
+
+
+
+----------------------------------
+
+fenntartás      ENG20-00254996-n : karbantartás, kijavítás,
+
+fenntartás      ENG20-01148422-n : segítség, támogatás,
+
+fenntartás      ENG20-05368943-n : bizonytalanság, kétely,
+
+fenntartás      ENG20-06346791-n : kikötés, megszorítás,
+
+
+
+----------------------------------
+
+hitel   ENG20-12616435-n : fizetség,
+
+hitel   ENG20-12620638-n : vagyon,
+
+
+
+----------------------------------
+
