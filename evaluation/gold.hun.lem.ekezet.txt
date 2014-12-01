@@ -1,0 +1,102 @@
+utalás 4 :: hivatkozás 6; referencia 3; jel 3; megjegyzés 3; információ 2; célzás 1; (szó kihagyása) 1; hint 1; állitás 1; jellegzetesség 1; elszólás 1; iránymutatás 1; közlés 1; jelzés 1; részlet 1 
+helyzet 1 :: státusz 3; kérdés 3; körülmény 2; állapot 2; ügy 1; státus 1; viszony 1; szituáció 1; probléma 1; allap 1; jogviszony 1; megítélés 1; életkörülmény 1 
+lap 5 :: újság 10; kiadvány 4; folyóirat 5; magazin 3; hírlap 2; napilap 1; orgánum 1; sajtóorgánum 1; médium 1; periodika 1; oldal 1; hetilap 1; hírportál 1; nyomtatvány 1; sajtótermék 1 
+fenntartás 4 :: kétség 3; aggály 2; kifogás 3; kétely 2; aggodalom 2; ellenkezés 1; ellenszenv 1; ellenérzés 1; félelem 1; ellenállás 1; szkepticizmus 1; bizonytalanság 1; ellenvetés 2; ódzkodás 1; rosszallás 1 
+váltó 3 :: eszköz 3; szerkezet 1; kapcsoló 1; váltóeszköz 1; jelzés 1; irányítóeszköz 1; jelez 1; biztosító 1; kitérő 2; berendezés 1 
+hüvely 4 :: belső 4; tok 2; ház 1; mag 1; tartó 1; kapszula 1; köpeny 2 
+lap 4 :: újság 9; kiadvány 2; magazin 2; hírlap 1; folyóirat 1; sajtóorgánum 1; napilap 1; hetilap 1; sajtó 1 
+súly 1 :: tömeg 7; testtömeg 1; nehézség 1; testsúly 1;
+hozzájárulás 5 :: támogatás 4; pénz 2; finanszírozás 2; segítség 2; adomány 1; beleegyezés 1; befizetés 2; támogatás 1; adományozás 1 
+utalás 7 :: hivatkozás 6; említés 1; idézet 1 
+hüvely 5 :: vagina 4; punci 2; partner 1; vulva 1; pina 1; muff 1; szeméremtest 1; lik 1; mézesbödön 1; suna 1 
+csőd 1 :: elnyomás 1; bukás 2; romlás 1; kudarc 1; tönkretesz 1; veszte 1; zsákutca 1; kárhozat 1; pusztulás 1 
+állás 9 :: helyzet 4; működés 1; szituáció 1; alakulás 1; körülmény 1; allap 1; ismeret 1; tényálladék 1; állapot 1; tényállás 1; fennállás 1 
+hozzájárulás 4 :: beleegyezés 4; engedély 4; jóváhagyás 4; egyetértés 2; pártfogás 1; támogatás 2; igen 1; rábólintás 1; szó 1 
+hüvely 3 :: vagina 3; tarisznya 1; mindzso 1; pina 1; barlang 1; kéjbarlang 1; ajzat 1; nemiszerv 1; fesz 1 
+utalás 9 :: tranzakció 3; átutalás 2; termés 1; ígérvény 1; folyósítás 1; pénzforgalom 1; fizetés 1; transzfer 1; hivatkozás 1 
+váltó 8 :: értékpapír 3; betartás 1; megőrzés 1; igazolás 1; bizonylat 1 
+hüvely 6 :: borsó 1; héj 1; borsóhüvely 1; tok 1; zöldség 1; magház 1; termés 1;
+fenntartás 7 :: biztosítás 3; megtartás 1; kialakítás 1; póz 1; testtartás 1; érvényesítés 1; kikényszerítés 1; visszaállítás 1; megőrzés 1 
+fenntartás 1 :: ellenérzés 2; kétely 2; kétség 2; kifogás 1; aggály 1; szituáció 1; bizonytalanság 1; ellenvélemény 1; allap 1; kétkedés 1 
+helyzet 7 :: pozíció 4; testtartás 2; póz 2; testhelyzet 2; pozitúra 1 
+helyzet 3 :: szituáció 3; celzas 1; eset 1; állapot 1; idő 1; körülmény 1; állapot 1 
+súly 3 :: tömeg 3; teher 2; hóteher 1; nehézség 1; krach 1 
+utalás 2 :: megjegyzés 3; szó 1; célozgatás 1; célzás 1; odavetés 1 
+csőd 3 :: kudarc 4; összeomlás 1; bukás 1; krach 1; sikertelenség 1; megsemmisülés 1; veszteség 1; tönkremenetel 1
+fenntartás 9 :: finanszírozás 1; támogatás 2; kezelés 1; pénz 1; üzemeltetés 1; eltartott 1; működtetés 1;
+hozzájárulás 6 :: jóváhagyás 3; engedély 3; beleegyezés 2; támogatás 1; egyetértés 1 
+váltó 2 :: kölcsön 2; hitel 1; pénz 1; fizetési ígéret 1; ígéret 1 
+fenntartás 5 :: megőrzés 2; működés 1; megtartás 1; biztosítás 1; megmaradás 1; stabilizálás 1 
+lap 9 :: oldal 2; történet 1; örökség 1; példa 1; darab 1; fejezet 1; szemelvény 1 
+súly 9 :: hangsúly 4; figyelem 1 
+váltó 5 :: páros 1; csoport 1; staféta 1; felváltva 1; váltás 1; csapatverseny 1 
+utalás 5 :: említés 2; megjegyzés 1; célzás 1 
+helyzet 2 :: szituáció 3; esemény 1 
+csőd 6 :: összeomlás 4; kudarc 2; hanyatlás 1; katasztrófa 1 
+lap 1 :: újság 2; riporter 1; kiadvány 1; hírlap 1; mi 1 
+csőd 4 :: kudarc 3; tehetetlenség 1; katasztrófa 1; vereség 2; tragédia 1; bukás 1;
+állás 7 :: foglalkoztat 1; pozíció 1; alkalmaz 1; dolgozói állomány 1; státusz 1; munka 1; állomány 1; foglalkoztatás 1 
+hozzájárulás 1 :: jóváhagyás 2; engedély 2; segítség 1; támogatás 1; beleegyezés 1 
+utalás 8 :: küldés 2; juttatás 1; irányítás 1; átutalás 1; transzferálás 1 
+helyzet 10 :: állapot 2; összkép 1; körülmény 1; környezet 1 
+fenntartás 3 :: kétség 3; hezitálás 1; előítélet 1; óvatoskodás 1; kétely 1; hátsó gondolat 1; félelem 1 
+súly 10 :: tömeg 3; nehézség 1 
+lap 8 :: nyomtatvány 3; űrlap 2; papír 1; formanyomtatvány 1; dokumentum 1 
+utalás 1 :: hivatkozás 2; megjegyzés 1; kitétel 1 
+állás 2 :: pont 2; pozíció 2; hely 1; harcállás 1; munkahely 1 
+utalás 3 :: megjegyzés 1; említés 1; indoklás 1; kitérés 1; hivatkozás 1 
+állás 5 :: pozíció 3; munkahely 2; munkakör 1 
+súly 8 :: kiadás 3; teher 4;
+lap 10 :: dokumentum 2; intő 1; papír 1; igazolás 1; jegyzék 1; bizonyítvány 1 
+csőd 10 :: fizetésképtelenség 2; bezárás 1; összeomlás 1; csődvédelem 1 
+állás 8 :: pozíció 2; munkahely 1; hely 1; munkakör 1; státus 1; feladatkör 1 
+fenntartás 10 :: kétség 3; aggály 1; ellenérzés 1; kifogás 1; kétely 1; probléma 1 
+állás 1 :: eredmény 3; helyzet 1 
+hozzájárulás 10 :: beleegyezés 2; vállalás 1; engedély 1; rész 1 
+csőd 8 :: összeomlás 2; fizetésképtelenség 1; államcsőd 1; katasztrófa 1 
+fenntartás 2 :: tartósítás 1; megtartás 1; megőrzés 1; védelem 1; fennmaradás 1 
+váltó 4 :: sín 1; szerkezet 1 
+váltó 9 :: sebességváltó 2 
+csőd 9 :: összeomlás 3; veszteség 1; katasztrófa 1; fizetésképtelenség 1 
+súly 12 :: tömeg 3; testsúly 1 
+súly 2 :: hangsúly 2; fontosság 1; jelentőség 1; mérték 1; nyomaték 1 
+csőd 7 :: fizetésképtelenség 1; összeomlás 1; csődvédelem 1 
+lap 3 :: újság 1; kiadvány 1 
+hozzájárulás 3 :: engedély 2; beleegyezés 2 
+lap 6 :: újság 2; hetilap 1; szerkesztőség 1; napilap 1; újságíró 1 
+állás 3 :: csapat 2; hadállás 1; pozíció 1 
+állás 10 :: eredmény 3 
+utalás 10 :: átutalás 1; összeg 1; fizetés 1; tranzakció 1; folyósítás 1 
+súly 6 :: tömeg 2; testsúly 1 
+hüvely 7 :: tok 1 
+lap 2 :: papír 1 
+csőd 5 :: tönkremenetel 1; összeomlás 1 
+váltó 1 :: értékpapír 1 
+hüvely 1 :: vagina 1 
+váltó 7 :: csapat 1 
+helyzet 5 :: állapot 1 
+utalás 6 :: jelzés 1; megjegyzés 1 
+súly 11 :: tömeg 1 
+helyzet 9 :: állapot 2 
+fenntartás 6 :: megőrzés 1 
+hozzájárulás 9 :: támogatás 2; befizetés 1 
+súly 4 :: teher 2 
+súly 5 :: jelentőség 2; fontosság 1 
+helyzet 6 :: állapot 2 
+hüvely 10 :: tőrhüvely 1; tok 1; kardhüvely 1 
+hüvely 2 :: vagina 1 
+helyzet 8 :: szituáció 1; körülmény 1 
+állás 4 :: pozíció 1 
+hüvely 8 :: tok 1 
+súly 7 :: jelentőség 2; fontosság 1 
+hozzájárulás 2 :: támogatás 2 
+váltó 6 :: staféta 1 
+hozzájárulás 8 :: beleegyezés 2; engedély 1 
+csőd 2 :: kudarc 2 
+helyzet 4 :: póz 1; testhelyzet 1; tartás 1 
+váltó 10 :: csapat 2 
+fenntartás 8 :: kétség 2; aggály 1 
+állás 6 :: munka 2; munkahely 1 
+lap 7 :: újság 2; hetilap 1; magazin 1; napilap 1; folyóirat 1 
+hozzájárulás 7 :: beleegyezés 1; engedély 1; beleegyezés 1 
+hüvely 9 :: tok 1 

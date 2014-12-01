@@ -1,0 +1,172 @@
+# This file provides a mapping of propositions to canonical forms, in
+# accordance with lemmatization decisions that have been taken in the
+# gold standard. Because of different lemmatization decisions, some
+# correct propositions might be considered incorrect when compared to
+# the gold standard. In order not to defavour systems, this mapping is
+# applied to the participants' output. The mapping consists of the
+# following normalizations:
+#
+# * verb infinitive forms proposed as a substitute for an adjective
+#   are mapped to the past participle form of the verb;
+# * pronominal verbs with "se" are mapped to the canonical form
+#   without "se".
+#
+
+abaisser(compris.a)-->abaissé
+aggraver(compris.a)-->aggravé
+apercevoir(compris.a)-->aperçu
+appartenir(compris.a)-->appartenu
+appréhender(compris.a)-->appréhendé
+assimiler(compris.a)-->assimilé
+atteindre(compris.a)-->atteint
+augmenter(compris.a)-->augmenté
+avoisiner(compris.a)-->avoisiné
+baigner(compris.a)-->baigné
+baisser(compris.a)-->baissé
+baliser(compris.a)-->balisé
+centraliser(hermétique.a)-->centralisé
+chuter(compris.a)-->chuté
+comporter(compris.a)-->comporté
+compter(compris.a)-->compté
+concevoir(compris.a)-->conçu
+concourir(compris.a)-->concouru
+contenir(compris.a)-->contenu
+contrôler(compris.a)-->contrôlé
+couvrir(compris.a)-->couvert
+crouler(compris.a)-->croulé
+déblayer(compris.a)-->déblayé
+débroussailler(compris.a)-->débroussaillé
+décréter(compris.a)-->décrété
+décrire(compris.a)-->décrit
+défavoriser(aisé.a)-->défavorisé
+déminer(compris.a)-->déminé
+dépasser(compris.a)-->dépassé
+deviner(compris.a)-->deviné
+devoir(compris.a)-->dû
+diminuer(compris.a)-->diminué
+dresser(compris.a)-->dressé
+élever(compris.a)-->élevé
+élever(modeste.a)-->élevé
+entourer(compris.a)-->entouré
+entrer(compris.a)-->entré
+établir(compris.a)-->établi
+être(compris.a)-->été
+évaluer(compris.a)-->évalué
+examiner(compris.a)-->examiné
+exonérer(modeste.a)-->exonéré
+faire(compris.a)-->fait
+faire tilt(compris.a)-->fait tilt
+fermer(hermétique.a)-->fermé
+fidéliser(aisé.a)-->fidélisé
+fonctionner(compris.a)-->fonctionné
+inclure(compris.a)-->inclus
+intégrer(compris.a)-->intégré
+irriguer(riche.a)-->irrigué
+labourer(compris.a)-->labouré
+maintenir(compris.a)-->maintenu
+marier(aisé.a)-->marié
+méconnaître(obscur.a)-->méconnu
+mensualiser(aisé.a)-->mensualisé
+mesurer(compris.a)-->mesuré
+modérer(modeste.a)-->modéré
+paraître(compris.a)-->paru
+passer(compris.a)-->passé
+paver(obscur.a)-->pavé
+percer(hermétique.a)-->percé
+percevoir(compris.a)-->perçu
+piger(compris.a)-->pigé
+polluer(riche.a)-->pollué
+polluer(vaseux.a)-->pollué
+procéder(compris.a)-->procédé
+produire(compris.a)-->produit
+profiler(vaseux.a)-->profilé
+quadriller(compris.a)-->quadrillé
+rassembler(compris.a)-->rassemblé
+refléter(compris.a)-->reflété
+regrouper(compris.a)-->regroupé
+réguler(compris.a)-->régulé
+rentrer(compris.a)-->rentré
+repérer(compris.a)-->repéré
+répéter(grossier.a)-->répété
+représenter(compris.a)-->représenté
+ressembler(compris.a)-->ressemblé
+rester(compris.a)-->resté
+résulter(compris.a)-->résulté
+résumer(compris.a)-->résumé
+saisir(compris.a)-->saisi
+saler(riche.a)-->salé
+savoir(compris.a)-->su
+se accorder(entraîner.v)-->accorder
+se accroître(compris.a)-->accru
+se adresser(compris.a)-->adressé
+se aimer(éplucher.v)-->aimer
+se apercevoir(maintenir.v)-->apercevoir
+se appuyer(fonder.v)-->appuyer
+se baser(fonder.v)-->baser
+se battre(entraîner.v)-->battre
+se charger(compris.a)-->chargé
+se compter(taper.v)-->compter
+se conduire(éplucher.v)-->conduire
+se connaître(éplucher.v)-->connaître
+se contaminer(éplucher.v)-->contaminer
+se décomposer(commander.v)-->décomposer
+se déployer(interpréter.v)-->déployer
+se déverser(entraîner.v)-->déverser
+se dresser(interpréter.v)-->dresser
+se écraser(faucher.v)-->écraser
+se effectuer(fonder.v)-->effectuer
+se enfoncer(maintenir.v)-->enfoncer
+se engager(entraîner.v)-->engager
+se entraîner(entraîner.v)-->entraîner
+se envoler(faucher.v)-->envoler
+se épanouir(compris.a)-->épanouir
+se éponger(essuyer.v)-->éponger
+se essuyer(essuyer.v)-->essuyer
+se établir(commander.v)-->établir
+se étendre(compris.a)-->étendu
+se fonder(fonder.v)-->fonder
+se foutre(taper.v)-->foutre
+se hisser(interpréter.v)-->hisser
+se imposer(commander.v)-->imposer
+se imposer(interpréter.v)-->imposer
+se inscrire(fonder.v)-->inscrire
+se inscrire(maintenir.v)-->inscrire
+se installer(fonder.v)-->installer
+se instruire(éplucher.v)-->instruire
+se interroger(fonder.v)-->interroger
+se inverser(commander.v)-->inverser
+se jeter(entraîner.v)-->jeter
+se jouer(taper.v)-->jouer
+se lancer(arrêter.v)-->lancer
+se lancer(compris.a)-->lancé
+se lancer(entraîner.v)-->lancer
+se maintenir(maintenir.v)-->maintenir
+se nouer(commander.v)-->nouer
+se persuader(maintenir.v)-->persuader
+se prendre(taper.v)-->prendre
+se prétendre(éplucher.v)-->prétendre
+se produire(arrêter.v)-->produire
+se prononcer(arrêter.v)-->prononcer
+se raser(éplucher.v)-->raser
+se regarder(entraîner.v)-->regarder
+se rendre(maintenir.v)-->rendre
+se représenter(maintenir.v)-->représenter
+se rincer(essuyer.v)-->rincer
+se situer(compris.a)-->situé
+se situer(faucher.v)-->situer
+se spécialiser(compris.a)-->spécialisé
+se taper(taper.v)-->taper
+se tendre(commander.v)-->tendre
+se terrer(éplucher.v)-->terrer
+se traduire(entraîner.v)-->traduire
+se travestir(éplucher.v)-->travestir
+soigner(compris.a)-->soigné
+sucrer(riche.a)-->sucré
+superposer(mince.a)-->superposé
+supporter(compris.a)-->supporté
+tâter(compris.a)-->tâté
+transiter(compris.a)-->transité
+varier(compris.a)-->varié
+varier(riche.a)-->varié
+vérifier(compris.a)-->vérifié
+viabiliser(compris.a)-->viabilisé
