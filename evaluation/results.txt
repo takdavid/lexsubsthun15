@@ -1,0 +1,33 @@
+FILE BEST OOT
+res.lemma2.size200.NPMI.rawcount.txt	0.100510413929	0.221201233484
+res.lemma2.size200.NPMI.relfreqnorm.txt	0.0923341317203	0.209821681663
+res.lemma2.size200.NPMI.relfreq.txt	0.072016794259	0.18723764805
+res.lemma2.size500.squaredPMI.rawcount.txt	0.0478124902274	0.0807623882443
+res.lemma2.size500.NPMI.rawcount.txt	0.0469212246302	0.0807623882443
+res.lemma2.size200.squaredPMI.rawcount.txt	0.0469212246302	0.0807623882443
+res.lemma5.size200.NPMI.rawcount.txt	0.0436185904452	0.0807623882443
+res.lemma5.size500.NPMI.rawcount.txt	0.0427273248481	0.0807623882443
+res.lemma5.size500.squaredPMI.rawcount.txt	0.0395682834537	0.0807623882443
+res.lemma5.size200.squaredPMI.rawcount.txt	0.0395682834537	0.0807623882443
+res.lemma2.size500.NPMI.relfreqnorm.txt	0.0357843137255	0.07586042746
+res.lemma5.size200.NPMI.relfreqnorm.txt	0.0339522677758	0.07586042746
+res.lemma5.size500.NPMI.relfreqnorm.txt	0.026688453159	0.0807623882443
+res.lemma5.size500.NPMI.relfreq.txt	0.00759660589382	0.07586042746
+res.lemma5.size200.squaredPMI.relfreqnorm.txt	0.00588235294118	0.07586042746
+res.lemma5.size500.squaredPMI.relfreqnorm.txt	0.00392156862745	0.07586042746
+res.lemma2.size200.squaredPMI.relfreqnorm.txt	0.00392156862745	0.07586042746
+res.lemma5.size200.NPMI.relfreq.txt	0.00358591070665	0.07586042746
+res.lemma2.size500.squaredPMI.relfreq.txt	0.00336804578291	0.07586042746
+res.lemma2.size500.squaredPMI.relfreqnorm.txt	0.00306991483462	0.07586042746
+res.lemma5.size500.squaredPMI.relfreq.txt	0.00247678018576	0.07586042746
+res.lemma5.size200.squaredPMI.relfreq.txt	0.00247678018576	0.07586042746
+res.lemma2.size500.NPMI.relfreq.txt	0.00247678018576	0.07586042746
+res.lemma2.size200.squaredPMI.relfreq.txt	0.00247678018576	0.07586042746
+
+
+
+
+
+
+
+
