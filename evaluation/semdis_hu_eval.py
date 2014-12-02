@@ -149,7 +149,7 @@ class SemdisEvaluation(object):
     def evaluate(self, testFile, metric, normalize):
         testDict = self.__parseTestFile(testFile, normalize)
 
-        print '\nEvaluating', len(testDict), 'instances..\n'
+        #print '\nEvaluating', len(testDict), 'instances..\n'
 
         if metric == 'all':
             self.__best(testDict)
@@ -168,7 +168,7 @@ class SemdisEvaluation(object):
         for key, valueList in testDict.items():
             # if empty valuelist, score for this item is zero, so we
             # continue
-            if not valueList:
+            if not valueList or key not in self.goldDict:
                 continue
             else:
                 bestAnswer = valueList[0]
@@ -182,7 +182,7 @@ class SemdisEvaluation(object):
         for key, valueList in testDict.items():
             # if empty valuelist, score for this item is zero, so we
             # continue
-            if not valueList:
+            if not valueList or key not in self.goldDict:
                 continue
             else:
                 allScore = 0
@@ -206,6 +206,8 @@ class SemdisEvaluation(object):
         name=re.sub("\..*?$","",name) 
         print "ID\tlexelt\t",name+"-Nreponses","\t",name+"-Best","\t",name+"-OOT"
         for key, valueList in sorted(testDict.items()):
+            if not valueList or key not in self.goldDict:
+                continue
             try:
                 bestAnswer = valueList[0]
             except IndexError:
