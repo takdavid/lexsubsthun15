@@ -1,3 +1,6 @@
 [submodule "corpus/huwn"]
 	path = corpus/huwn
 	url = git@github.com:mmihaltz/huwn.git
+[submodule "word2vec/danielfrg"]
+	path = word2vec/danielfrg
+	url = git@github.com:danielfrg/word2vec.git

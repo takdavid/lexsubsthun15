@@ -3,6 +3,7 @@ set -e
 git submodule init
 git submodule update
 
+# word2vec/mikolov
 if [ ! -d word2vec/mikolov ]; then
     svn checkout http://word2vec.googlecode.com/svn/trunk/ word2vec/mikolov
 fi
@@ -15,6 +16,11 @@ if [ "$(uname)" == "Darwin" ]; then
 fi
 cd word2vec/mikolov
 make
+cd -
+
+# word2vec/danielfrg
+cd word2vec/danielfrg
+python setup.py install
 cd -
 
 echo
