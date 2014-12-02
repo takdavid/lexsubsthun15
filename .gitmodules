@@ -1,0 +1,3 @@
+[submodule "corpus/huwn"]
+	path = corpus/huwn
+	url = git@github.com:mmihaltz/huwn.git
