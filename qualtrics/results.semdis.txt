@@ -1,0 +1,368 @@
+utalás 4 :: hivatkozás 5, referencia 3, jel 3, megjegyzés 2, információ 2, celzas 1, (szó kihagyása) 1, megjegyzes 1, hint 1, allitas 1, jellegzetesség 1, elszólás 1, Hivatkozás 1, iránymutatás 1, közlés 1, jelzés 1, részlet 1
+helyzet 1 :: státuszának 3, kérdésének 2, körülményeinek 2, állapotának 2, kérdésének ügyének 1, státusának 1, viszonyának 1, szituacio 1, problémáinak 1, allapot 1, jogviszonyának 1, megítélésének 1, életkörülményeinek 1
+lap 5 :: újság 9, kiadvány 4, folyóirat 3, magazin 3, hírlap 2, napilap 1, orgánum 1, sajtóorgánum 1, médium 1, folyóirat periodika 1, ujsag 1, folyoirat 1, oldal 1, hetilap 1, hírportál 1, nyomtatvány 1, sajtótermék 1
+fenntartás 4 :: kétségei 3, aggályai 2, kifogásai 2, kételyei 2, aggodalmai 2, ellenkezesei 1, ellenszenve 1, ellenérzései 1, félelmei 1, ellenállása 1, szkepticizmusa 1, bizonytalansága 1, ellenvetés 1, ellenvetései 1, ódzkodása 1, kifogás 1, rosszallásai 1
+váltó 3 :: eszközt 3, szerkezetet 1, kapcsolót 1, váltóeszközt 1, jelzést 1, irányítóeszközt 1, jelzőt 1, biztosítót 1, kitero 1, kitérő 1, berendezést 1
+hüvely 4 :: belsejében 4, tokjában 2, házában 1, magjában 1, kopeny 1, tartójában 1, kapszulájában 1, köpenyében 1
+lap 4 :: újság 8, kiadvány 2, magazin 2, hírlap 1, folyóirat 1, sajtóorgánum 1, napilap 1, ujsag 1, hetilap 1, sajtó 1
+súly 1 :: tömegének 6, testtömegének 1, nehézségének 1, testsúlyának 1, tomeg 1
+hozzájárulás 5 :: támogatásával 4, pénzéből 2, finanszírozásával 2, segítségével 2, adományával 1, beleegyezésével 1, befizetes 1, tamogatas 1, befizetéseiből 1, adomanyozas 1
+utalás 7 :: hivatkozással 6, emlites 1, idézettel 1
+hüvely 5 :: vaginába 4, punciba 2, partnerbe 1, vulvába 1, pina 1, muff 1, szemeremtest 1, lik 1, mezesbodon 1, suna 1
+csőd 1 :: elnyomásba 1, bukásba 1, romlásba 1, kudarcra 1, tönkretette 1, vesztebe 1, zsákutcába 1, bukasra 1, kárhozatba 1, pusztulásba 1
+állás 9 :: helyzete 3, működése 1, szituacio 1, alakulása 1, körülményei 1, allapot 1, ismerete 1, helyzet 1, tényálladéka 1, állapota 1, tényállása 1, fennállása 1
+hozzájárulás 4 :: beleegyezését 3, engedélyét 3, jóváhagyását 3, egyetértését 2, beleegyézését 1, jovahagyas 1, pártfogását 1, tamogatas 1, támogatását 1, igen 1, rabolintas 1, engedely 1, szavát 1
+hüvely 3 :: vaginájából 2, tarisznya 1, mindzso 1, ez mar volt! pina 1, barlang 1, vagina 1, kejbarlang 1, ajzat 1, nemiszervéből 1, feszek 1
+utalás 9 :: tranzakciókra 3, átutalásokra 2, termes 1, igerveny 1, folyósításokra 1, pénzforgalomra 1, fizetésekre 1, transzfer 1, hivatkozásokra 1
+váltó 8 :: értékpapír 3, betartas 1, megorzes 1, igazolás 1, bizonylat 1
+hüvely 6 :: borsó 1, héj 1, borsóhüvely 1, tok 1, zöldség 1, megkerdojelezesek 1, magház 1, termés 1, felelmek 1, ellenkezes 1, ellenvelemeny 1
+fenntartás 7 :: biztosítására 3, megtartására 1, kialakítására 1, poz 1, testtartas 1, érvényesítésére 1, kikényszerítésére 1, visszaállítására 1, megőrzésére 1
+fenntartás 1 :: ellenérzések 2, kételyek 2, kétségek 2, kifogások 1, aggályok 1, szituacio 1, bizonytalanságok 1, ellenvélemények 1, allapot 1, kétkedések 1
+helyzet 7 :: pozícióban 4, testtartásban 2, pózban 2, testhelyzetben 2, nehezseg 1, tomeg 1, pozitúrában 1
+helyzet 3 :: szituációban 3, celzas 1, esetben 1, állapotokban 1, időkben 1, körülményekben 1, állapotban 1
+súly 3 :: tömeg 3, teher 2, hóteher 1, nehézség 1, krach 1
+utalás 2 :: megjegyzésemre 3, szavamra 1, célozgatásomra 1, célzásomra 1, tonkremenetel 1, odavetésemre 1
+csőd 3 :: kudarcot 3, összeomlás 1, bukást 1, krachot 1, sikertelenséget 1, megsemmisülést 1, veszteséget 1, kudarc 1
+fenntartás 9 :: finanszírozásában 1, támogatásával 1, kezelésében 1, pénzéből 1, üzemeltetésében 1, eltartottjaként 1, működtetésében 1, támogatásában 1
+hozzájárulás 6 :: jóváhagyása 3, engedélye 3, beleegyezése 2, támogatása 1, egyetértése 1
+váltó 2 :: kölcsönbe 2, hitelbe 1, pénzt 1, fizetési ígéretre 1, ígéretre 1
+fenntartás 5 :: megőrzéséhez 2, működéséhez 1, megtartásához 1, biztosításához 1, megmaradásához 1, stabilizálásához 1
+lap 9 :: oldalai 2, történetei 1, örökségei 1, példái 1, darabjai 1, fejezetei 1, szemelvényei 1
+súly 9 :: hangsúlyt 4, figyelmet 1
+váltó 5 :: párosban 1, csoportban 1, stafétában 1, felváltva 1, váltásban 1, csapatversenyben 1
+utalás 5 :: említést 2, megjegyzést 1, célzást 1
+helyzet 2 :: szituációkban 3, eseményeken 1
+csőd 6 :: összeomlásáért 4, kudarcáért 2, hanyatlásáért 1, katasztrófájáért 1
+lap 1 :: újságunknak 2, riporterünknek 1, kiadványunknak 1, hírlapunknak 1, nekünk 1
+csőd 4 :: kudarc 2, Tehetetlenség 1, Katasztrófa 1, vereség 1, Tragédia 1, Bukás 1, Vereség 1, Kudarc 1
+állás 7 :: foglalkoztatva 1, pozícióban 1, alkalmazva 1, dolgozói állományban 1, státuszban 1, munkában 1, állományban 1, foglalkoztatásban 1
+hozzájárulás 1 :: jóváhagyását 2, engedélyét 2, segítségét 1, támogatását 1, beleegyezését 1
+utalás 8 :: küldéséről 2, juttatásáról 1, irányításáról 1, átutalásáról 1, transzferálásáról 1
+helyzet 10 :: állapot 2, összkép 1, körülmények 1, környezet 1
+fenntartás 3 :: kétség 3, hezitálás 1, előítéletek 1, óvatoskodás 1, kétely 1, hátsó gondolat 1, félelem 1
+súly 10 :: tömege 3, nehézsége 1
+lap 8 :: nyomtatványokat 3, űrlapokat 2, papírokat 1, formanyomtatványokat 1, dokumentumokat 1
+utalás 1 :: hivatkozás 2, megjegyzés 1, kitétel 1
+állás 2 :: pontok 2, pozíciók 2, helyek 1, harcállások 1, munkahelyek 1
+utalás 3 :: megjegyzés 1, említés 1, indoklás 1, kitérés 1, hivatkozás 1
+állás 5 :: pozíció 3, munkahely 2, munkakör 1
+súly 8 :: kiadásait 3, terhét 3, terheit 1
+lap 10 :: dokumentumot 2, intőt 1, papírt 1, igazolást 1, jegyzéket 1, bizonyítványt 1
+csőd 10 :: fizetésképtelenséget 2, bezárást 1, összeomlást 1, csődvédelmet 1
+állás 8 :: pozíciót 2, munkahelyet 1, helyet 1, munkakört 1, státust 1, feladatkört 1
+fenntartás 10 :: kétségei 3, aggályai 1, ellenérzései 1, kifogásai 1, kételyei 1, problémái 1
+állás 1 :: eredmény 3, helyzet 1
+hozzájárulás 10 :: beleegyezését 2, vállalását 1, engedélyét 1, részét 1
+csőd 8 :: összeomlás 2, fizetésképtelenség 1, államcsőd 1, katasztrófa 1
+fenntartás 2 :: tartósításáért 1, megtartásáért 1, megőrzéséért 1, védelméért 1, fennmaradásáért 1
+váltó 4 :: síneket 1, szerkezeteket 1
+váltó 9 :: sebességváltót 2
+csőd 9 :: összeomlást 3, veszteséget 1, katasztrófát 1, fizetésképtelenséget 1
+súly 12 :: tömeg 3, testsúly 1
+súly 2 :: hangsúllyal 2, fontossággal 1, jelentőséggel 1, mértékben 1, nyomatékkal 1
+csőd 7 :: fizetésképtelenségről 1, összeomlásról 1, csődvédelemről 1
+lap 3 :: újságunknak 1, kiadványunknak 1
+hozzájárulás 3 :: engedélye 2, beleegyezése 2
+lap 6 :: újság 2, hetilap 1, szerkesztőség 1, napilap 1, újságírók 1
+állás 3 :: csapataira 2, hadállásaira 1, pozícióira 1
+állás 10 :: eredménye 3
+utalás 10 :: átutalás 1, összeg 1, fizetés 1, tranzakció 1, folyósítás 1
+súly 6 :: tömeg 2, testsúly 1
+hüvely 7 :: tokból 1
+lap 2 :: papírokra 1
+csőd 5 :: tönkremeneteléért 1, összeomlásáért 1
+váltó 1 :: értékpapírt 1
+hüvely 1 :: vaginán 1
+váltó 7 :: csapat 1
+helyzet 5 :: állapot 1
+utalás 6 :: jelzést 1, megjegyzést 1
+súly 11 :: tömegét 1
+helyzet 9 :: állapota 2
+fenntartás 6 :: megőrzésére 1
+hozzájárulás 9 :: támogatásának 2, befizetéseinek 1
+súly 4 :: teher 2
+súly 5 :: jelentősége 2, fontossága 1
+helyzet 6 :: állapot 2
+hüvely 10 :: tőrhüvelyből 1, tokból 1, kardhüvelyből 1
+hüvely 2 :: vaginán 1
+helyzet 8 :: szituáció 1, körülmény 1
+állás 4 :: pozícióját 1
+hüvely 8 :: tok 1
+súly 7 :: jelentőségének 2, fontosságának 1
+hozzájárulás 2 :: támogatásai 2
+váltó 6 :: stafétára 1
+hozzájárulás 8 :: beleegyezésével 2, engedélyével 1
+csőd 2 :: kudarcát 2
+helyzet 4 :: pózban 1, testhelyzetben 1, tartásban 1
+váltó 10 :: csapatnak 2
+fenntartás 8 :: kétségeiket 2, aggályaikat 1
+állás 6 :: munka 2, munkahely 1
+lap 7 :: újság 2, hetilap 1, magazin 1, napilap 1, folyóirat 1
+hozzájárulás 7 :: beleegyezésére 1, engedélyére 1, beleegyezése 1
+hüvely 9 :: tokok 1
+gazda 3 :: farmerek 1, termelők 1, földművelők 1, mezőgazdászok 1
+hivatal 1 :: 
+tétel 2 :: vizsgatételeket 1
+jelentés 7 :: beszámolója 1
+hivatal 4 :: hatalomba 1
+jelentés 8 :: tájékoztatóját 1, beszámolóját 1
+gyümölcs 9 :: 
+tétel 3 :: összege 1
+hivatal 8 :: 
+gazda 8 :: 
+karakter 2 :: jellegét 1, megjelenését 1
+karakter 4 :: jellem 1
+hivatal 5 :: 
+hivatal 3 :: 
+oldal 9 :: 
+hivatal 7 :: 
+gazda 2 :: 
+oldal 8 :: 
+belépő 1 :: csatlakozók 1
+oldal 6 :: 
+szellem 4 :: 
+oldal 3 :: 
+karakter 8 :: 
+szervezet 4 :: 
+tétel 10 :: 
+szervezet 8 :: 
+szervezet 5 :: 
+jelentés 6 :: 
+szervezet 1 :: 
+oldal 5 :: 
+belépő 12 :: 
+gyümölcs 10 :: 
+belépő 5 :: belépőjegyek 1
+szellem 3 :: 
+belépő 6 :: 
+gazda 7 :: 
+karakter 3 :: 
+karakter 5 :: jelleg 1
+gyümölcs 2 :: bevételeinek 1
+tétel 5 :: 
+oldal 7 :: 
+oldal 11 :: 
+hivatal 9 :: 
+hivatal 2 :: 
+tétel 4 :: 
+belépő 8 :: 
+jelentés 5 :: 
+gyümölcs 1 :: 
+belépő 11 :: 
+szellem 6 :: 
+gyümölcs 8 :: 
+gazda 5 :: 
+tétel 1 :: 
+tétel 8 :: 
+belépő 2 :: 
+gazda 6 :: 
+belépő 9 :: 
+gazda 9 :: 
+karakter 6 :: 
+szellem 11 :: 
+oldal 2 :: 
+szellem 1 :: 
+belépő 10 :: 
+jelentés 1 :: 
+karakter 9 :: 
+szellem 8 :: 
+oldal 10 :: 
+gyümölcs 3 :: 
+szellem 2 :: 
+jelentés 3 :: 
+tétel 6 :: 
+jelentés 10 :: 
+szervezet 3 :: 
+belépő 7 :: 
+szellem 5 :: 
+szervezet 2 :: 
+oldal 1 :: 
+gazda 4 :: 
+gazda 11 :: 
+gazda 10 :: 
+szervezet 10 :: 
+hivatal 6 :: 
+belépő 3 :: 
+karakter 7 :: 
+karakter 10 :: 
+szervezet 9 :: 
+tétel 7 :: 
+szervezet 7 :: 
+oldal 4 :: 
+szellem 10 :: 
+szellem 9 :: 
+gazda 1 :: 
+jelentés 9 :: 
+jelentés 2 :: 
+gyümölcs 7 :: 
+gyümölcs 5 :: 
+szervezet 6 :: 
+tétel 9 :: 
+gyümölcs 4 :: 
+karakter 1 :: 
+szellem 7 :: 
+hivatal 10 :: 
+belépő 4 :: 
+gyümölcs 6 :: 
+jelentés 4 :: 
+gazda 12 :: 
+tanács 6 :: 
+kilátás 10 :: 
+villa 6 :: 
+pofa 2 :: 
+paradicsom 8 :: 
+díj 3 :: 
+paradicsom 4 :: 
+lehetőség 8 :: 
+alak 6 :: 
+paradicsom 6 :: 
+természet 5 :: 
+kép 11 :: 
+fül 7 :: 
+tárgy 8 :: 
+pofa 1 :: 
+kilátás 5 :: 
+alak 4 :: 
+fül 9 :: 
+lehetőség 9 :: 
+lehetőség 2 :: 
+kép 8 :: 
+pofa 11 :: 
+díj 2 :: 
+alak 2 :: 
+gyakorlat 10 :: 
+tárgy 6 :: 
+lehetőség 7 :: 
+természet 10 :: 
+lehetőség 10 :: 
+gyakorlat 7 :: 
+kép 3 :: 
+hitel 10 :: 
+alak 7 :: 
+pofa 5 :: 
+kép 2 :: 
+kilátás 1 :: 
+hó 11 :: 
+villa 11 :: 
+hitel 5 :: 
+villa 7 :: 
+villa 4 :: 
+alak 11 :: 
+kép 4 :: 
+lehetőség 11 :: 
+hó 7 :: 
+fül 10 :: 
+gyakorlat 5 :: 
+kilátás 7 :: 
+lehetőség 5 :: 
+gyakorlat 3 :: 
+gyakorlat 2 :: 
+kilátás 11 :: 
+természet 4 :: 
+paradicsom 10 :: 
+tanács 5 :: 
+tárgy 10 :: 
+hó 6 :: 
+hó 8 :: 
+hitel 4 :: 
+díj 10 :: 
+kilátás 6 :: 
+fül 4 :: 
+hó 4 :: 
+díj 7 :: 
+fül 6 :: 
+tanács 2 :: 
+lehetőség 1 :: 
+tárgy 7 :: 
+gyakorlat 6 :: 
+tárgy 9 :: 
+tanács 1 :: 
+pofa 8 :: 
+természet 7 :: 
+tárgy 3 :: 
+pofa 3 :: 
+tárgy 5 :: 
+pofa 4 :: 
+hitel 9 :: 
+hó 9 :: 
+kilátás 3 :: 
+tanács 9 :: 
+hó 1 :: 
+tanács 8 :: 
+kép 10 :: 
+kép 5 :: 
+fül 3 :: 
+pofa 6 :: 
+tanács 10 :: 
+villa 3 :: 
+természet 1 :: 
+tárgy 1 :: 
+természet 3 :: 
+díj 5 :: 
+hó 10 :: 
+villa 1 :: 
+gyakorlat 4 :: 
+kép 6 :: 
+kép 9 :: 
+természet 6 :: 
+villa 9 :: 
+hitel 1 :: 
+díj 9 :: 
+paradicsom 5 :: 
+tárgy 2 :: 
+kép 7 :: 
+díj 1 :: 
+alak 5 :: 
+hitel 2 :: 
+kilátás 8 :: 
+hitel 6 :: 
+villa 2 :: 
+természet 9 :: 
+kilátás 4 :: 
+villa 10 :: 
+pofa 9 :: 
+gyakorlat 1 :: 
+alak 3 :: 
+paradicsom 9 :: 
+hitel 8 :: 
+paradicsom 7 :: 
+tárgy 4 :: 
+fül 5 :: 
+kilátás 2 :: 
+hó 5 :: 
+díj 6 :: 
+tanács 7 :: 
+gyakorlat 8 :: 
+természet 2 :: 
+villa 8 :: 
+villa 5 :: 
+lehetőség 3 :: 
+gyakorlat 9 :: 
+tanács 11 :: 
+természet 8 :: 
+fül 1 :: 
+paradicsom 2 :: 
+hitel 3 :: 
+tanács 3 :: 
+alak 9 :: 
+paradicsom 11 :: 
+alak 1 :: 
+pofa 10 :: 
+kilátás 9 :: 
+hó 3 :: 
+alak 10 :: 
+hó 2 :: 
+lehetőség 4 :: 
+alak 12 :: 
+paradicsom 3 :: 
+lehetőség 6 :: 
+díj 4 :: 
+alak 8 :: 
+tanács 4 :: 
+fül 2 :: 
+paradicsom 1 :: 
+hitel 7 :: 
+fül 8 :: 
+pofa 7 :: 
+díj 8 :: 
+kép 1 :: 

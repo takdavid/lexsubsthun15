@@ -68,5 +68,5 @@ for f in fieldnames[Qi0:Qi1]:
     ki = re.sub('^Q(\w+?)(\d+)', '\\2', f)
     print k2w[kw].encode('utf-8'), ki, '::',
     pairs = [ (w + ' ' + str(ans[f][w])) for w in sorted(ans[f], key=ans[f].get, reverse=True) ]
-    print ', '.join(pairs)
+    print '; '.join(pairs)
 
