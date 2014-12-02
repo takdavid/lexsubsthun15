@@ -1,6 +1,7 @@
 qualtrics/*.qsf
 .DS_Store
 article/*.pdf
+word2vec/mikolov
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

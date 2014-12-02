@@ -1,0 +1,10 @@
+--- word2vec/mikolov/compute-accuracy.c	2014-12-02 16:32:29.000000000 +0100
++++ word2vec/mikolov_before/compute-accuracy.c	2014-09-26 19:13:02.000000000 +0200
+@@ -16,7 +16,6 @@
+ #include <stdlib.h>
+ #include <string.h>
+ #include <math.h>
+-#include <malloc.h>
+ #include <ctype.h>
+ 
+ const long long max_size = 2000;         // max length of strings
