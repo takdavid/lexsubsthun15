@@ -8,6 +8,7 @@ glove/tmp/*
 glove/glove/*
 corpus/mnsz1/*.txt
 corpus/mnsz2_only/*.txt
+virtualenv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -6,6 +6,11 @@ home=`cd $home; pwd`
 git submodule init
 git submodule update
 
+if [ ! -d virtualenv ]; then
+    virtualenv virtualenv
+fi
+. virtualenv/bin/activate
+
 # word2vec/mikolov
 cd $home
 if [ ! -d word2vec/mikolov ]; then
@@ -31,7 +36,10 @@ cd word2vec/danielfrg
 python setup.py install
 cd $home
 
-#glove
+# custom word2vec scripts
+pip install argparse
+
+# glove
 cd $home
 if [ ! -d glove/glove ]; then
     curl http://www-nlp.stanford.edu/software/glove.tar.gz >glove/tmp/glove.tar.gz
