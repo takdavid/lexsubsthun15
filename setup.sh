@@ -2,12 +2,12 @@ set -e
 
 home=`dirname $0`
 home=`cd $home; pwd`
-echo home $home
 
 git submodule init
 git submodule update
 
 # word2vec/mikolov
+cd $home
 if [ ! -d word2vec/mikolov ]; then
     svn checkout http://word2vec.googlecode.com/svn/trunk/ word2vec/mikolov
 fi
@@ -20,12 +20,16 @@ if [ "$(uname)" == "Darwin" ]; then
 fi
 cd word2vec/mikolov
 make
-cd -
+cd $home
 
 # word2vec/danielfrg
+cd $home
+if [ ! -d word2vec/danielfrg ]; then
+    git clone git@github.com:danielfrg/word2vec.git word2vec/danielfrg
+fi
 cd word2vec/danielfrg
 python setup.py install
-cd -
+cd $home
 
 #glove
 cd $home
