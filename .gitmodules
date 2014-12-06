@@ -4,3 +4,6 @@
 [submodule "word2vec/danielfrg"]
 	path = word2vec/danielfrg
 	url = git@github.com:danielfrg/word2vec.git
+[submodule "glove/maciejkula"]
+	path = glove/maciejkula
+	url = git@github.com:maciejkula/glove-python.git

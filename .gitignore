@@ -2,6 +2,12 @@ qualtrics/*.qsf
 .DS_Store
 article/*.pdf
 word2vec/mikolov
+*.ftgd
+word2vec/tmp/*
+glove/tmp/*
+glove/glove/*
+corpus/mnsz1/*.txt
+corpus/mnsz2_only/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

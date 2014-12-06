@@ -1,5 +1,9 @@
 set -e
 
+home=`dirname $0`
+home=`cd $home; pwd`
+echo home $home
+
 git submodule init
 git submodule update
 
@@ -23,6 +27,33 @@ cd word2vec/danielfrg
 python setup.py install
 cd -
 
-echo
-echo OK!
+#glove
+cd $home
+if [ ! -d glove/glove ]; then
+    curl http://www-nlp.stanford.edu/software/glove.tar.gz >glove/tmp/glove.tar.gz
+    cd glove
+    tar -xvzf tmp/glove.tar.gz glove/
+    cd -
+fi
+cd glove/glove
+make
+cd $home
 
+# glove/maciejkula
+cd $home
+if [ ! -d glove/maciejkula ]; then
+    git clone git@github.com:maciejkula/glove-python.git glove/maciejkula
+    if [ "$(uname)" == "Darwin" ]; then 
+        brew install gcc49
+        brew install capnp
+    fi
+    CFLAGS='-stdlib=libc++' pip install pycapnp
+    pip install -U cython
+    pip install -U setuptools
+fi
+cd glove/maciejkula
+python setup.py install || echo "ERROR setting up maciejkula/glove"
+cd $home
+
+echo
+echo OK
