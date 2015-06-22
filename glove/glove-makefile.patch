@@ -1,0 +1,10 @@
+--- makefile_original	2014-05-03 02:19:47.000000000 +0200
++++ makefile	2014-12-06 21:34:34.000000000 +0100
+@@ -1,6 +1,6 @@
+ CC = gcc
+ #For older gcc, use -O3 or -O2 instead of -Ofast
+-CFLAGS = -lm -pthread -Ofast -march=native -funroll-loops -Wno-unused-result
++CFLAGS = -lm -pthread -march=native -funroll-loops -Wno-unused-result
+ 
+ all: glove shuffle cooccur vocab_count
+ 

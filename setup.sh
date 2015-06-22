@@ -45,6 +45,9 @@ if [ ! -d glove/glove ]; then
     curl http://www-nlp.stanford.edu/software/glove.tar.gz >glove/tmp/glove.tar.gz
     cd glove
     tar -xvzf tmp/glove.tar.gz glove/
+    set +e
+    patch -t -s -N glove/makefile -i makefile.patch
+    set -e
     cd -
 fi
 cd glove/glove
